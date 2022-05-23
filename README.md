@@ -15,7 +15,7 @@ Below are the schematic snapshots of the circuits.
 ![Logic Shifting](./snapshots/logic-shifting.png)
 
 ### USB diode O'ring
-![USB BUS](./snapshots/usb-diode-oring.png)
+![USB BUS](./snapshots/USB-diode-oring.png)
 
 ### Battery-diode-o'ring
 ![Battery Oring](./snapshots/battery-diode-oring.png)
