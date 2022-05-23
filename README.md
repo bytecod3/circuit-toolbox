@@ -5,8 +5,11 @@ schematic.
 
 Below are the schematic snapshots of the circuits.
 
-### Indicators
-![LED Indicators](./snapshots/indicators.png)
+### Unidirectional ON indicator
+![LED Indicators](./snapshots/unidirectional-indicator.png)
+
+### Bi-directional ON indicator
+![LED Indicators](./snapshots/bi-directional-indicator.png)
 
 ### Logic Shifting
 ![Logic Shifting](./snapshots/logic-shifting.png)
