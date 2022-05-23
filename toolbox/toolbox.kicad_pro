@@ -328,6 +328,18 @@
     [
       "2eae8836-7aeb-411d-86a3-74045163b3dc",
       "logic-shifting"
+    ],
+    [
+      "9c7d5fec-3027-49e1-988d-2ce44d9421c2",
+      "diode-o'ring"
+    ],
+    [
+      "02027032-558b-4aa6-9b5b-d65226f679db",
+      "button-debounce"
+    ],
+    [
+      "91bca55d-a420-4f35-a541-acc4964088cf",
+      "IOextension"
     ]
   ],
   "text_variables": {}
