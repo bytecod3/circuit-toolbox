@@ -340,6 +340,10 @@
     [
       "91bca55d-a420-4f35-a541-acc4964088cf",
       "IOextension"
+    ],
+    [
+      "574670bc-b2c5-46ec-8c41-c545a47f0816",
+      "reverse-polarity-proctection"
     ]
   ],
   "text_variables": {}

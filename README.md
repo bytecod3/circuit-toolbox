@@ -1,4 +1,9 @@
-## Most commonly used circuits in circuit design
+## Utility circuits for day-to-day electronic circuit design
+
+The schematics are KiCAD files with hierachical sheets. Open the corresponding sheet to view a given part or import the whole project into your
+schematic.
+
+Below are the schematic snapshots of the circuits.
 
 ### Indicators
 ![LED Indicators](./snapshots/indicators.png)
@@ -15,3 +20,5 @@
 ### I/O pins extension with 74HC595
 ![io extension](./snapshots/io-extension.png)
 
+### Reverse Proctection
+![MOSFET reverse proctection](./snapshots/reverse-proctection.png)
